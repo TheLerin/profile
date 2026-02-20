@@ -1,3 +1,3 @@
 # Hi, I'm Lerin
 
-![Demo](demo.gif)
+![Demo](https://github.com/TheLerin/TheLerin/raw/main/demo.gif)
