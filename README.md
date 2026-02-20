@@ -1,1 +1,3 @@
-![Game Demo](demo.gif)
+# Hi, I'm Lerin
+
+![Demo](demo.gif)
